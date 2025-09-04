@@ -1,3 +1,11 @@
+// Question Pdf 
+// --> https://www.linkedin.com/posts/krishna-garg-32bb59303_30-essential-array-questions-in-java-of-activity-7369387540925059075-cNAZ?
+
+// First Download this pdf and try by yourself then you can take help from solutions
+
+// Desclaimer - I am still in the learning phase, so there may be bugs in my solutions or opportunities for optimization.
+//If you come across any improvements, I would greatly appreciate it if you could submit a pull request with the updated code, as it will be helpful for both me and others.
+
 package Searching;
 
 import java.util.ArrayList;
