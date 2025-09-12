@@ -1,3 +1,12 @@
+// Question Pdf 
+// --> https://www.linkedin.com/posts/krishna-garg-32bb59303_dsa-journey-update-binary-search-patterns-activity-7372261940284530688-Ies2?
+// First Download this pdf and try by yourself then you can take help from solutions if you want
+
+// Desclaimer - I am still in the learning phase, so there may be bugs in my solutions or opportunities for optimization.
+//If you come across any improvements, I would greatly appreciate it if you could submit a pull request with the updated code, as it will be helpful for both me and others.
+
+
+package Searching
 import java.util.Arrays;
 
 public class BinarySearch {
