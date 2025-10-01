@@ -1,3 +1,11 @@
+// Question Pdf 
+// https://www.linkedin.com/posts/krishna-garg-32bb59303_24-string-questions-with-solution-activity-7379056095425880068-SrFb?
+
+// First Download this pdf and try by yourself then you can take help from solutions
+
+// Desclaimer - I am still in the learning phase, so there may be bugs in my solutions or opportunities for optimization.
+//If you come across any improvements, I would greatly appreciate it if you could submit a pull request with the updated code, as it will be helpful for both me and others.
+
 package String_Ques;
 
 import java.util.ArrayList;
