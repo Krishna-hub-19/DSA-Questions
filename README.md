@@ -10,6 +10,21 @@ It is intended for learning, interview preparation, and strengthening problem-so
 
 ---
 
+## 🗂️ Question PDFs (Organized by Topic)
+
+You can access all the **topic-wise DSA question PDFs** from the link below:  
+
+📎 [View DSA Question PDFs on Google Drive](https://drive.google.com/drive/folders/1VS04bpbgtrWky-Suq1E0-y2WCL6mwq3f)
+
+This Drive contains folders like:
+- 📘 **Pattern Questions**
+- 🔤 **String Questions**
+- 🔍 **Searching Algorithms**
+- ♻️ **Recursion Problems**
+  
+--> Each folder includes PDFs for easy practice and reference.
+
+
 ## 📥 Download / Clone
 
 Clone this repository using:
