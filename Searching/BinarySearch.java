@@ -6,7 +6,7 @@
 //If you come across any improvements, I would greatly appreciate it if you could submit a pull request with the updated code, as it will be helpful for both me and others.
 
 
-package Searching
+package Searching;
 import java.util.Arrays;
 
 public class BinarySearch {
