@@ -8,9 +8,10 @@
 
 
 
-import java.util.Scanner;
 
 package Pattern;
+
+import java.util.Scanner;
 
 public class Pattern {
     
